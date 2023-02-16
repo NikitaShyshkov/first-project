@@ -1,4 +1,5 @@
 class Date
 {
 puvlic:
+	Date();
 }
